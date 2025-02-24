@@ -44,4 +44,10 @@ To set up your environment using `uv`, follow these steps:
 2. **Run the script**:
    ```bash
    python flood_fill.py unfilled.png out.png
+
+   ```
+
+3. **Run the bash script to fill all images in a directory**:
+   ```bash
+   ./fill.sh <directory_path>
    ```
